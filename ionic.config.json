@@ -1,0 +1,8 @@
+{
+  "name": "Sleeque",
+  "app_id": "bb2ed369",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
